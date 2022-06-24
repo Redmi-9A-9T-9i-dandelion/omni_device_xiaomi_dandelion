@@ -32,7 +32,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(DEVICE_PATH)/recovery/ro
 PRODUCT_DEVICE := dandelion
 PRODUCT_NAME := omni_dandelion
 PRODUCT_BRAND := Redmi
-PRODUCT_MODEL := Redmi 9A
+PRODUCT_MODEL := Redmi 10A
 PRODUCT_MANUFACTURER := xiaomi
 
 # HACK: Set vendor patch level
